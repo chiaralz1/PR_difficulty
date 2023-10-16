@@ -21,3 +21,5 @@ ii) The name of concept A, the alphanumeric code used to mask the concept name i
 iii) The correct sequence in which concepts should be ordered.
   
 - *Linguistic Analysis*: Here, you can find the results of the linguistic analysis performed on the collected data. The folder also contains a legend which details the linguistic features extracted from the texts.
+
+- *Questionnaires Results*: This folder contains the aggregated answers to the questionnaires provided by participants. For each question (identified by the id) and each possible concept ordering, we report the number of subjects who gave that ordering as an answer. 

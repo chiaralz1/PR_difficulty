@@ -1,4 +1,4 @@
-# PR_difficulty
+# Investigating Text Difficulty and Prerequisite Relation Identification
 Data and analysis of the crowd-based study on concept prerequisite ordering.
 
 This GitHub repository contains the corpus and linguistic analysis of a crowd-based study on prerequisite concept ordering. 

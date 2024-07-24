@@ -15,7 +15,7 @@ Given three concepts A, B, and C, each described in a short text t_A, t_B and t_
 To test whether the produced orderings vary depending on the difficulty level of the concept description, we acquired the short texts from three different sources: Simple Wikipedia, English Wikipedia, and Specialised Encyclopaedia.
 
 # Repository Contents
-- *Corpus Data*: This directory contains the concept descriptions used for the crowd-based study. These descriptions constitute the core part of the Concept Description Variations Corpus. For each concept description source (Simple Wikipedia, English Wikipedia and Specialised Encyclopedia), we report the 10 triples used as questions of the study. Specifically, for each question, we report:
+- *Corpus Data*: This directory contains the concept descriptions used for the crowd-based study. These descriptions constitute the core part of the **Concept Description Variations Corpus**. For each concept description source (Simple Wikipedia, English Wikipedia and Specialised Encyclopedia), we report the 10 triples used as questions of the study. Specifically, for each question, we report:
 i) A progressive number serving as an identifier;
 ii) The name of concept A, the alphanumeric code used to mask the concept name in the descriptions, and the short descriptive text (same for concepts B and C).
 iii) The correct sequence in which concepts should be ordered.

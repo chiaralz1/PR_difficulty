@@ -2,7 +2,7 @@
 Data and analysis of the crowd-based study on concept prerequisite ordering.
 
 This GitHub repository contains the corpus and linguistic analysis of a crowd-based study on prerequisite concept ordering. 
-In the study, we aimed to understand how people order concepts in a variety of domains after reading short concept descriptions showing various text difficulty degrees. 
+In the study, we aimed to understand how people order concepts in a variety of domains after reading short concept descriptions showing various degrees of difficulty in text. 
 This repository is intended to provide transparency, access to the collected data, and insights gained from our linguistic analysis.
 
 # Concept Ordering Task
@@ -24,6 +24,6 @@ iii) The correct sequence in which concepts should be ordered.
 
 - *Questionnaires Results*: This folder contains the aggregated answers to the questionnaires provided by participants. For each question (identified by the id) and each possible concept ordering, we report the number of subjects who gave that ordering as an answer. 
 
-
+# References
 When using this resource, please cite the following paper:
 Alzetta C. (2024) “Investigating Text Difficulty and Prerequisite Relation Identification”. In Italian Journal of Computational Linguistics (IJCoL), Volume 10, Number 1. https://journals.openedition.org/ijcol/1362

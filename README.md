@@ -23,3 +23,7 @@ iii) The correct sequence in which concepts should be ordered.
 - *Linguistic Analysis*: Here, you can find the results of the linguistic analysis performed on the collected data. The folder also contains a legend which details the linguistic features extracted from the texts.
 
 - *Questionnaires Results*: This folder contains the aggregated answers to the questionnaires provided by participants. For each question (identified by the id) and each possible concept ordering, we report the number of subjects who gave that ordering as an answer. 
+
+
+When using this resource, please cite the following paper:
+Alzetta C. (2024) “Investigating Text Difficulty and Prerequisite Relation Identification”. In Italian Journal of Computational Linguistics (IJCoL), Volume 10, Number 1. https://journals.openedition.org/ijcol/1362
